@@ -17,3 +17,6 @@ Now check the version of **nodeJS**, using `node -v` and also check **npm** vers
 `cd app_name`
 # Run React app: 
 `npm start`
+# After updated anythings / Changes anythings need to run below command
+- `git add .`
+- `git commit -m "Updated something"`

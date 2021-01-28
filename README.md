@@ -22,4 +22,5 @@ Now check the version of **nodeJS**, using `node -v` and also check **npm** vers
 - `git commit -m "Updated something"`
 
 # Below some of the important Git Command Link
-[Git Command 1](https://github.com/imdadulhaque1/Git_Command_1) [Git Command 2](https://github.com/imdadulhaque1/Git_Command_2)
+1. [Git Command 1](https://github.com/imdadulhaque1/Git_Command_1) 
+2. [Git Command 2](https://github.com/imdadulhaque1/Git_Command_2)

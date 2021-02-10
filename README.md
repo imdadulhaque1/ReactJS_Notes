@@ -23,7 +23,7 @@ Now check the version of **nodeJS**, using `node -v` and also check **npm** vers
 - `git push -u origin master`
 
 # For installing, run the below command
-`install --save react-router react-router-dom`
+`npm install --save react-router react-router-dom`
 
 # Below some of the important Git Command Link
 1. [Git Command 1](https://github.com/imdadulhaque1/Git_Command_1) 

@@ -30,7 +30,7 @@ Now check the version of **nodeJS**, using `node -v` and also check **npm** vers
 2. [Git Command 2](https://github.com/imdadulhaque1/Git_Command_2)
 
 
-# React Project deploy architecture from starting to ending using coding
+# React Project deploy architecture from starting to ending using comand
 Follow the steps and that's are given below,
 1. **Create react app: **`npm init react-app app_name`
 2. **Install gh-pages: **`npm install gh-pages`

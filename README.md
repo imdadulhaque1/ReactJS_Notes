@@ -33,7 +33,7 @@ Now check the version of **nodeJS**, using `node -v` and also check **npm** vers
 # React Project deploy architecture from starting to ending using comand
 Follow the steps and that's are given below,
 1. **Create react app: **`npm init react-app app_name`
-2. **Install gh-pages: **`npm install gh-pages`
+2. **Install gh-pages: **`npm install gh-pages --save-dev`
 3. **add homepage in _package.json_: **`"homwpage": "http://imdadulhaque1.github.io/app_name"`
 4. **Add predeploy and deploy inside _scripts_ in _package.json_: **
                                                                   `"predeploy": "npm run build",`

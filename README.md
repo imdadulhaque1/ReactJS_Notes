@@ -28,3 +28,18 @@ Now check the version of **nodeJS**, using `node -v` and also check **npm** vers
 # Below some of the important Git Command Link
 1. [Git Command 1](https://github.com/imdadulhaque1/Git_Command_1) 
 2. [Git Command 2](https://github.com/imdadulhaque1/Git_Command_2)
+
+
+# React Project deploy architecture from starting to ending using coding
+Follow the steps and that's are given below,
+1. **Create react app: **`npm init react-app app_name`
+2. **Install gh-pages: **`npm install gh-pages`
+3. **add homepage in _package.json_: **`"homwpage": "http://imdadulhaque1.github.io/app_name"`
+4. **Add predeploy and deploy inside _scripts_ in _package.json_: **
+                                                                  `"predeploy": "npm run build",`
+                                                                   `"deploy": "gh-pages -d build",`
+5. **Need to initialize the app: ** `git init`
+6. **Connected the github repository with created app: **`git remote add origin https://github.com/imdadulhaque1/app_name.git`
+7. Now I should works to build up the projects
+8. **Run deploy: **`npm run deploy`
+9. **Put the app in github: **`git push -u origin masters`

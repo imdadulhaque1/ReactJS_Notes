@@ -50,3 +50,7 @@ Follow the steps and that's are given below,
 3. **Install react-popper:** `npm install react-popper@2.2.3 --save`
 4. **Install together:** `npm install bootstrap@4.5.0 reactstrap@8.5.1 react-popper@2.2.3 --save`
 5. **Install Date Format:** `npm install dateformat --save`
+
+# For cunnecting Redux need to install some packages and that's are given below,
+1. **Install redux:** `npm install redux --save`
+2. **Install react-redux for supporting redux in react files:** `npm install react-redux --save`

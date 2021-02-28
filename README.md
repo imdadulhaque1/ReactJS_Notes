@@ -52,6 +52,7 @@ Follow the steps and that's are given below,
 5. **Install Date Format:** `npm install dateformat --save`
 
 # yarn Install and Uninstall
+1. **Install:** [CLICK HERE](https://linuxhint.com/install_yarn_ubuntu/)
 1. **Uninstall:** `npm uninstall -g yarn`
 
 # For cunnecting Redux need to install some packages and that's are given below,

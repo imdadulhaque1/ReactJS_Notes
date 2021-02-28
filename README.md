@@ -58,3 +58,11 @@ Follow the steps and that's are given below,
 # For cunnecting Redux need to install some packages and that's are given below,
 1. **Install redux:** `npm install redux --save`
 2. **Install react-redux for supporting redux in react files:** `npm install react-redux --save`
+
+
+
+
+# Node and NPM install in Windows:
+1. **Install Node:** [CLICK HERE](https://nodejs.org/en/download/) to download  and **check the version:** `node -v`
+2. **Install React from terminal Globally:** `npm install -g create-react-app`
+3. **VS Code Package Install:** __

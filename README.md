@@ -77,6 +77,7 @@ After push the projects, follow the below steps,
     For `yarn`: `yarn add gh-pages`
 3. Add the scripts in `package.json`:
       `"scripts":{
+      
           "predeploy": "npm run build",
           
           "deploy": "gh-pages -d build",

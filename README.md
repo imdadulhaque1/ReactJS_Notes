@@ -67,7 +67,8 @@ Follow the steps and that's are given below,
 
 
 # Host React Projects in github:
-After push the projects, follow the below steps,
+Should follow This [LINK](https://create-react-app.dev/docs/deployment) to deploy.
+Or, After push the projects, follow the below steps,
 1. Open the `package.json` and add a `homepage` field below `name` for the project:
     `"homepage": "https://imdadulhaque1.github.io/project_name"`
     

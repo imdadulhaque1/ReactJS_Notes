@@ -60,9 +60,25 @@ Follow the steps and that's are given below,
 2. **Install react-redux for supporting redux in react files:** `npm install react-redux --save`
 
 
-
-
 # Node and NPM install in Windows:
 1. **Install Node:** [CLICK HERE](https://nodejs.org/en/download/) to download  and **check the version:** `node -v`
 2. **Install React from terminal Globally:** `npm install -g create-react-app`
 3. **VS Code Package Install:** __
+
+
+# Host React Projects in github:
+After push the projects, follow the below steps,
+1. Open the `package.json` and add a `homepage` field below `name` for the project:
+    `"homepage": "https://imdadulhaque1.github.io/project_name"`
+2. Install `gh-pages` and add `deploy` to `scripts` in `package.json` :
+    `npm install --save gh-pages`
+    For `yarn`: `yarn add gh-pages`
+3. Add the scripts in `package.json`:
+      `"scripts":{
+          "predeploy": "npm run build",
+          "deploy": "gh-pages -d build",
+          "start": "react-scripts start",
+          "build": "react-scripts build",
+      }
+      `
+4. Deploy the site by running `npm run deploy`

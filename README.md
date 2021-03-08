@@ -70,15 +70,17 @@ Follow the steps and that's are given below,
 After push the projects, follow the below steps,
 1. Open the `package.json` and add a `homepage` field below `name` for the project:
     `"homepage": "https://imdadulhaque1.github.io/project_name"`
+    
 2. Install `gh-pages` and add `deploy` to `scripts` in `package.json` :
     `npm install --save gh-pages`
+    
     For `yarn`: `yarn add gh-pages`
 3. Add the scripts in `package.json`:
       `"scripts":{
           "predeploy": "npm run build",
+          
           "deploy": "gh-pages -d build",
-          "start": "react-scripts start",
-          "build": "react-scripts build",
       }
       `
+      
 4. Deploy the site by running `npm run deploy`

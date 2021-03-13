@@ -56,7 +56,7 @@ Follow the steps and that's are given below,
 1. **Install:** [CLICK HERE](https://linuxhint.com/install_yarn_ubuntu/)
 1. **Uninstall:** `npm uninstall -g yarn`
 
-# For cunnecting Redux need to install some packages and that's are given below,
+# For connecting Redux need to install some packages and that's are given below,
 1. **Install redux:** `npm install redux --save`
 2. **Install react-redux for supporting redux in react files:** `npm install react-redux --save`
 3. **For Installing middleware use the command:** `npm install redux-logger --save`

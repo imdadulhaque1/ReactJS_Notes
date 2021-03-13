@@ -50,6 +50,7 @@ Follow the steps and that's are given below,
 3. **Install react-popper:** `npm install react-popper@2.2.3 --save`
 4. **Install together:** `npm install bootstrap@4.5.0 reactstrap@8.5.1 react-popper@2.2.3 --save`
 5. **Install Date Format:** `npm install dateformat --save`
+6. **Install Font-Awesome:** `npm install font-awesome --save`
 
 # yarn Install and Uninstall
 1. **Install:** [CLICK HERE](https://linuxhint.com/install_yarn_ubuntu/)

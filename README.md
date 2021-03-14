@@ -60,6 +60,7 @@ Follow the steps and that's are given below,
 1. **Install redux:** `npm install redux --save`
 2. **Install react-redux for supporting redux in react files:** `npm install react-redux --save`
 3. **For Installing middleware use the command:** `npm install redux-logger --save`
+4.  **Install redux-thunk:** `npm i redux-thunk`
 
 
 # Node and NPM install in Windows:

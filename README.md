@@ -69,6 +69,8 @@ Follow the steps and that's are given below,
 2. **Install React from terminal Globally:** `npm install -g create-react-app`
 3. **VS Code Package Install:** __
 
+# REST API setting up:
+1. **Install json-server globally:** `npm install json-server -g`
 
 # Host React Projects in github:
 Should follow This [LINK](https://create-react-app.dev/docs/deployment) to deploy.

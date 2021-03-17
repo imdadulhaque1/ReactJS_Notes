@@ -52,9 +52,9 @@ Follow the steps and that's are given below,
 5. **Install Date Format:** `npm install dateformat --save`
 6. **Install Font-Awesome:** `npm install font-awesome --save`
 
-# yarn Install and Uninstall
+# yarn Install and Uninstall [LINK](https://www.edureka.co/community/37459/how-to-uninstall-yarn)
 1. **Install:** [CLICK HERE](https://linuxhint.com/install_yarn_ubuntu/)
-1. **Uninstall:** `npm uninstall -g yarn`
+1. **Uninstall:** `sudo apt-get remove yarn && sudo apt-get purge yarn`
 
 # For connecting Redux need to install some packages and that's are given below,
 1. **Install redux:** `npm install redux --save`

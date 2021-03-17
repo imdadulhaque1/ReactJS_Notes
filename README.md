@@ -71,6 +71,7 @@ Follow the steps and that's are given below,
 
 # REST API setting up:
 1. **Install json-server globally:** `npm install json-server -g`
+2. **To inactive and Customized the JSON file:** `json-server file_name.json --watch -p 3001`
 
 # Host React Projects in github:
 Should follow This [LINK](https://create-react-app.dev/docs/deployment) to deploy.

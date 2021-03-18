@@ -8,6 +8,10 @@ For run reactJS must have instalt **nodeJS** otherwise **reactJS** doesn't work.
                 
 Now check the version of **nodeJS**, using `node -v` and also check **npm** version using `npm -v` . 
 
+**For Uninstall node & npm** I should use the be command:
+          `sudo apt-get remove nodejs` is for uninstall nodejs
+          `sudo apt-get remove npm`  is for uninstall npm
+
 **Mind it:** Using the above command to install **nodeJS**, **npm** install by default. Or, setup **npm** and maintains below command of installing procedure.
 # npm setup: 
 `sudo npm i create-react-app`

@@ -2,7 +2,7 @@
 ## Notes:
 For run reactJS must have instalt **nodeJS** otherwise **reactJS** doesn't work. So, click [HERE](https://github.com/imdadulhaque1/distributions) or use the below command install **nodeJS** on **Ubuntu** Operating system.
 
-                `curl -sL https://deb.nodesource.com/setup_15.x | sudo -E bash -`
+                `curl -sL https://deb.nodesource.com/setup_16.x | sudo -E bash -`
 
                 `sudo apt-get install -y nodejs`
                 

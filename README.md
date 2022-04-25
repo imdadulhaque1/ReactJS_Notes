@@ -14,6 +14,13 @@ Now check the version of **nodeJS**, using `node -v` and also check **npm** vers
           `sudo apt-get remove npm`  is for uninstall npm.
 
 **Mind it:** Using the above command to install **nodeJS**, **npm** install by default. Or, setup **npm** and maintains below command of installing procedure.
+
+#Node & npm install on Ubuntu 22.04 LTS:
+  `sudo apt install nodejs npm` install node 12.22.9 and then for updating the node version run bellow command
+  `sudo npm install -g n`
+  `sudo n lts`
+
+
 # npm setup: 
 `sudo npm i create-react-app`
 # Create React App: 

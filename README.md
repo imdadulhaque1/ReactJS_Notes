@@ -15,7 +15,7 @@ Now check the version of **nodeJS**, using `node -v` and also check **npm** vers
 
 **Mind it:** Using the above command to install **nodeJS**, **npm** install by default. Or, setup **npm** and maintains below command of installing procedure.
 
-##Node & npm install on Ubuntu 22.04 LTS:
+# Node & npm install on Ubuntu 22.04 LTS:
 
   1. `sudo apt install nodejs npm` install node 12.22.9 and then for updating the node version run bellow command
   

@@ -21,7 +21,7 @@ Now check the version of **nodeJS**, using `node -v` and also check **npm** vers
   
   2. `sudo npm install -g n`
   
-  3. `sudo n lts`
+  3. `sudo n lts` successfully install node 16.14.2 version
 
 
 # npm setup: 

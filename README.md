@@ -17,9 +17,11 @@ Now check the version of **nodeJS**, using `node -v` and also check **npm** vers
 
 ##Node & npm install on Ubuntu 22.04 LTS:
 
-  `sudo apt install nodejs npm` install node 12.22.9 and then for updating the node version run bellow command
-  `sudo npm install -g n`
-  `sudo n lts`
+  1. `sudo apt install nodejs npm` install node 12.22.9 and then for updating the node version run bellow command
+  
+  2. `sudo npm install -g n`
+  
+  3. `sudo n lts`
 
 
 # npm setup: 
